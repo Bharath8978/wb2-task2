@@ -1,0 +1,52 @@
+.margin
+{
+    display: flex;
+    background-color:blanchedalmond;
+    height: 460px;
+    width: 1000px;
+}
+.color
+{
+    background-color:rgb(121, 205, 208);
+    margin-left: 75px;
+}
+img
+{
+    width: 350px;
+    border-radius: 100%;
+    height: 350px;
+    border: 3px solid white;
+}
+.mar
+{
+    height: 75px;
+    width: 1000px;
+}
+.voi
+{
+    width:355.5px ;
+    margin-left: 75px;
+    background-color: rgb(121, 205, 208);
+    height: 400px;
+    display: flex;
+}
+.name
+{
+    padding-left: 75px;
+    margin-top: 175px;
+}
+.name h3
+{
+    font-family:monospace;
+}
+.content
+{
+    padding-left: 50px;
+    margin-top: 50px;
+    color: white;
+}
+.content2
+{
+    padding-left: 75px;
+    margin-top: 50px;
+}
